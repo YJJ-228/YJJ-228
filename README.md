@@ -1,4 +1,4 @@
-[![YJJ-228's GitHub stats](github-readme-stats-eight-ruddy-21.vercel.app/api?username=YJJ-228)](https://github.com/YJJ-228/github-readme-stats)
+[![YJJ-228's GitHub stats](https://github-readme-stats-eight-ruddy-21.vercel.app/api?username=YJJ-228)](https://github.com/YJJ-228/github-readme-stats)
 
 <!--
 **YJJ-228/YJJ-228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
