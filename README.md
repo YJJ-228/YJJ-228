@@ -1,4 +1,4 @@
-## Hi there 👋
+[![YJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJJ-228)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YJJ-228/YJJ-228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
